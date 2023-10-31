@@ -1,16 +1,15 @@
-### Hi there 👋
+# Bem vindo(a) ao meu mundo
 
-<!--
-**luisascremin/luisascremin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Luisa Scremin
 
-Here are some ideas to get you started:
+- Meu nome é Luisa Scremin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Meu contato: e-mail:luisa.scremin@escola.pr.gov.
+
+- Eu tenho 14 anos
+
+- Estudo no colégio Helena Viana Sundin
+- Eu iniciei os projetos na plataforma alura
+- https://cursos.alura.com.br/dashboard
+- 
+![danda-dandic](https://github.com/luisascremin/luisascremin/assets/146093638/ae155c92-0f56-4591-b3a5-2094537b2af6)
